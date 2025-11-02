@@ -1,0 +1,321 @@
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>3</iss>
+<cd>March 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/753</iss_url>
+</issinfo>
+<docty>Journal Article</docty>
+<artinfo>
+<ti>Front Matter</ti>
+<pp>
+<ppf>i</ppf>
+<ppl>vi</ppl>
+</pp>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.114.3.i</art_url>
+<doi>10.1257/aer.114.3.i</doi>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>3</iss>
+<cd>March 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/753</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>The Economics of the Public Option: Evidence from Local Pharmaceutical Markets</ti>
+<augp>
+<au><gnm>Juan Pablo</gnm><snm>Atal</snm><aff>U of Pennsylvania</aff></au>
+<au><gnm>José Ignacio</gnm><snm>Cuesta</snm><aff>Stanford U</aff></au>
+<au><gnm>Felipe</gnm><snm>González</snm><aff>Queen Mary U of London</aff></au>
+<au><gnm>Cristóbal</gnm><snm>Otero</snm><aff>Columbia U</aff></au>
+</augp>
+<pp>
+<ppf>615</ppf>
+<ppl>44</ppl>
+</pp>
+<ab>We study the effects of competition by state-owned firms, leveraging the decentralized entry of public pharmacies to local markets in Chile. Public pharmacies sell the same drugs at a third of private pharmacy prices, because of stronger upstream bargaining and market power in the private sector, but are of lower quality. Public pharmacies induced market segmentation and price increases in the private sector, which benefited the switchers to the public option but harmed the stayers. The countrywide entry of public pharmacies would reduce yearly consumer drug expenditure by 1.6 percent.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20211547</art_url>
+<doi>10.1257/aer.20211547</doi>
+<dataset>https://doi.org/10.3886/E193764V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>3</iss>
+<cd>March 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/753</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>The Effect of Macroeconomic Uncertainty on Household Spending</ti>
+<augp>
+<au><gnm>Olivier</gnm><snm>Coibion</snm><aff>U of Texas at Austin</aff></au>
+<au><gnm>Dimitris</gnm><snm>Georgarakos</snm><aff>European Central Bank</aff></au>
+<au><gnm>Yuriy</gnm><snm>Gorodnichenko</snm><aff>U of California, Berkeley</aff></au>
+<au><gnm>Geoff</gnm><snm>Kenny</snm><aff>European Central Bank</aff></au>
+<au><gnm>Michael</gnm><snm>Weber</snm><aff>U of Chicago</aff></au>
+</augp>
+<pp>
+<ppf>645</ppf>
+<ppl>77</ppl>
+</pp>
+<ab>We use randomized treatments that provide different types of information about the first and/or second moments of future economic growth to generate exogenous changes in the perceived macroeconomic uncertainty of treated households. The effects on their spending decisions relative to an untreated control group are measured in follow-up surveys. Our results indicate that, after taking into account first moments, higher macroeconomic uncertainty induces households to significantly and persistently reduce their total monthly spending in subsequent months. Changes in spending are broad based across spending categories and apply to larger durable good purchases as well.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20221167</art_url>
+<doi>10.1257/aer.20221167</doi>
+<dataset>https://doi.org/10.3886/E184646V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>3</iss>
+<cd>March 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/753</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Optimal Inference for Spot Regressions</ti>
+<augp>
+<au><gnm>Tim</gnm><snm>Bollerslev</snm><aff>Duke U</aff></au>
+<au><gnm>Jia</gnm><snm>Li</snm><aff>Singapore Management U</aff></au>
+<au><gnm>Yuexuan</gnm><snm>Ren</snm><aff>Singapore Management U</aff></au>
+</augp>
+<pp>
+<ppf>678</ppf>
+<ppl>708</ppl>
+</pp>
+<ab>Betas from return regressions are commonly used to measure systematic financial market risks. "Good" beta measurements are essential for a range of empirical inquiries in finance and macroeconomics. We introduce a novel econometric framework for the nonparametric estimation of time-varying betas with high-frequency data. The "local Gaussian" property of the generic continuous-time benchmark model enables optimal "finite-sample" inference in a well-defined sense. It also affords more reliable inference in empirically realistic settings compared to conventional large-sample approaches. Two applications pertaining to the tracking performance of leveraged ETFs and an intraday event study illustrate the practical usefulness of the new procedures.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20221338</art_url>
+<doi>10.1257/aer.20221338</doi>
+<dataset>https://doi.org/10.3886/E192481V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>3</iss>
+<cd>March 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/753</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>The Comparative Statics of Sorting</ti>
+<augp>
+<au><gnm>Axel</gnm><snm>Anderson</snm><aff>Georgetown U</aff></au>
+<au><gnm>Lones</gnm><snm>Smith</snm><aff>U of Wisconsin-Madison</aff></au>
+</augp>
+<pp>
+<ppf>709</ppf>
+<ppl>51</ppl>
+</pp>
+<ab>We create a general and tractable theory of increasing sorting in pairwise matching models with monetary transfers. The positive quadrant dependence partial order subsumes Becker (1973) as the extreme cases with most and least sorting and implies increasing regression coefficients. Our theory turns on synergy—the cross-partial difference or derivative of match production. This reflects basic economic forces: diminishing returns, technological convexity, insurance, and learning dynamics. We prove sorting increases if match synergy globally increases, and is cross-sectionally monotone or single crossing. We use our results to derive sorting predictions in major economics sorting papers and in new applications.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20210890</art_url>
+<doi>10.1257/aer.20210890</doi>
+<dataset>https://doi.org/10.3886/E194188V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>3</iss>
+<cd>March 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/753</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Mental Models and Learning: The Case of Base-Rate Neglect</ti>
+<augp>
+<au><gnm>Ignacio</gnm><snm>Esponda</snm><aff>U of California, Santa Barbara</aff></au>
+<au><gnm>Emanuel</gnm><snm>Vespa</snm><aff>U of California, San Diego</aff></au>
+<au><gnm>Sevgi</gnm><snm>Yuksel</snm><aff>U of California, Santa Barbara</aff></au>
+</augp>
+<pp>
+<ppf>752</ppf>
+<ppl>82</ppl>
+</pp>
+<ab>We experimentally document persistence of suboptimal behavior despite ample opportunities to learn from feedback in a canonical updating problem where people suffer from base-rate neglect. Our results provide insights on the mechanisms hindering learning from feedback. Importantly, our results suggest mistakes are more likely to be persistent when they are driven by incorrect mental models that miss or misrepresent important aspects of the environment. Such models induce confidence in initial answers, limiting engagement with and learning from feedback. We substantiate these insights in an alternative scenario where individuals involved in a voting problem overlook the importance of being pivotal.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20201004</art_url>
+<doi>10.1257/aer.20201004</doi>
+<dataset>https://doi.org/10.3886/E194236V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>3</iss>
+<cd>March 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/753</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Hub-and-Spoke Cartels: Theory and Evidence from the Grocery Industry</ti>
+<augp>
+<au><gnm>Robert</gnm><snm>Clark</snm><aff>Queen's U, Kingston</aff></au>
+<au><gnm>Ig</gnm><snm>Horstmann</snm><aff>U of Toronto</aff></au>
+<au><gnm>Jean-François</gnm><snm>Houde</snm><aff>U of Wisconsin-Madison</aff></au>
+</augp>
+<pp>
+<ppf>783</ppf>
+<ppl>814</ppl>
+</pp>
+<ab>Numerous recently uncovered cartels operated along the supply chain, with firms at one end facilitating collusion at the other—hub-and-spoke arrangements. These cartels are hard to rationalize because they induce double marginalization and higher costs. We examine Canada's alleged bread cartel and provide the first comprehensive analysis of hub-and-spoke collusion. Using court documents and pricing data, we make three contributions: (i) we show that collusion was effective, increasing inflation by about 50 percent; (ii) we provide evidence that collusion existed at both ends of the supply chain; and (iii) we develop a model explaining why this form of collusion arose.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20211337</art_url>
+<doi>10.1257/aer.20211337</doi>
+<dataset>https://doi.org/10.3886/E193126V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>3</iss>
+<cd>March 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/753</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Does the Squeaky Wheel Get More Grease? The Direct and Indirect Effects of Citizen Participation on Environmental Governance in China</ti>
+<augp>
+<au><gnm>Mark T.</gnm><snm>Buntaine</snm><aff>U of California, Santa Barbara</aff></au>
+<au><gnm>Michael</gnm><snm>Greenstone</snm><aff>U of Chicago</aff></au>
+<au><gnm>Guojun</gnm><snm>He</snm><aff>U of Hong Kong</aff></au>
+<au><gnm>Mengdi</gnm><snm>Liu</snm><aff>U of International Business and Economics, Beijing</aff></au>
+<au><gnm>Shaoda</gnm><snm>Wang</snm><aff>U of Chicago</aff></au>
+<au><gnm>Bing</gnm><snm>Zhang</snm><aff>Nanjing U of Finance and Economics and Nanjing U</aff></au>
+</augp>
+<pp>
+<ppf>815</ppf>
+<ppl>50</ppl>
+</pp>
+<ab>We conducted a nationwide field experiment in China to evaluate the direct and indirect impacts of assigning firms to public or private citizen appeals when they violate pollution standards. There are three main findings. First, public appeals to the regulator through social media substantially reduce violations and pollution emissions, while private appeals cause more modest environmental improvements. Second, public appeals appear to tilt regulators' focus away from facilitating economic growth and toward avoiding pollution-induced public unrest. Third, pollution reductions by treated firms are not offset by control firms, based on randomly varying the proportion of treated firms at the prefecture level.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20221215</art_url>
+<doi>10.1257/aer.20221215</doi>
+<dataset>https://doi.org/10.3886/E194521V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>3</iss>
+<cd>March 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/753</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>The Gender Gap in Confidence: Expected but Not Accounted For</ti>
+<augp>
+<au><gnm>Christine L.</gnm><snm>Exley</snm><aff>U of Michigan</aff></au>
+<au><gnm>Kirby</gnm><snm>Nielsen</snm><aff>Caltech</aff></au>
+</augp>
+<pp>
+<ppf>851</ppf>
+<ppl>85</ppl>
+</pp>
+<ab>We investigate how the gender gap in confidence affects the views that evaluators (e.g., employers) hold about men and women. We find the confidence gap is contagious, causing evaluators to form overly pessimistic beliefs about women. This result arises even though the confidence gap is expected and even though the confidence gap shouldn't be contagious if evaluators are Bayesian. Only an intervention that facilitates Bayesian updating proves (somewhat) effective. Additional results highlight how similar findings follow even when there is no room for discriminatory motives or differences in priors because evaluators are asked about arbitrary, rather than gender-specific, groups.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20221413</art_url>
+<doi>10.1257/aer.20221413</doi>
+<dataset>https://doi.org/10.3886/E194446V1</dataset>
+</artinfo>
+</head>
+
+

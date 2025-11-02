@@ -1,0 +1,314 @@
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>1</iss>
+<cd>January 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/747</iss_url>
+</issinfo>
+<docty>Journal Article</docty>
+<artinfo>
+<ti>Front Matter</ti>
+<pp>
+<ppf>i</ppf>
+<ppl>vi</ppl>
+</pp>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.114.1.i</art_url>
+<doi>10.1257/aer.114.1.i</doi>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>1</iss>
+<cd>January 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/747</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Disentangling Moral Hazard and Adverse Selection</ti>
+<augp>
+<au><gnm>Henrique</gnm><snm>Castro-Pires</snm><aff>U of Surrey</aff></au>
+<au><gnm>Hector</gnm><snm>Chade</snm><aff>Arizona State U</aff></au>
+<au><gnm>Jeroen</gnm><snm>Swinkels</snm><aff>Northwestern U</aff></au>
+</augp>
+<pp>
+<ppf>1</ppf>
+<ppl>37</ppl>
+</pp>
+<ab>While many real-world principal-agent problems have both moral hazard and adverse selection, existing tools largely analyze only one at a time. Do the insights from the separate analyses survive when the frictions are combined? We develop a simple method—decoupling—to study both problems at once. When decoupling works, everything we know from the separate analyses carries over, but interesting interactions also arise. We provide simple tests for whether decoupling is valid. We develop and numerically implement an algorithm to calculate the decoupled solution and check its validity. We also provide primitives for decoupling to work and analyze several extensions.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20220100</art_url>
+<doi>10.1257/aer.20220100</doi>
+<dataset>https://doi.org/10.3886/E193349V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>1</iss>
+<cd>January 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/747</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Universal Basic Income: A Dynamic Assessment</ti>
+<augp>
+<au><gnm>Diego</gnm><snm>Daruich</snm><aff>U of Southern California</aff></au>
+<au><gnm>Raquel</gnm><snm>Fernández</snm><aff>New York U</aff></au>
+</augp>
+<pp>
+<ppf>38</ppf>
+<ppl>88</ppl>
+</pp>
+<ab>Universal basic income (UBI) is an increasingly popular policy proposal, but there is no evidence regarding its longer-term consequences. We find that UBI generates large welfare losses in a general equilibrium model with imperfect capital markets, labor market shocks, and intergenerational linkages via skill formation and transfers. This conclusion is robust to various alternative ways of financing UBI. By using observationally equivalent models that eliminate different sources of endogenous dynamic linkages (equilibrium capital market and parental investment in child skills), we show that the latter are largely responsible for the negative welfare consequences.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20221099</art_url>
+<doi>10.1257/aer.20221099</doi>
+<dataset>https://doi.org/10.3886/E184125V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>1</iss>
+<cd>January 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/747</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Retirement Consumption and Pension Design</ti>
+<augp>
+<au><gnm>Jonas</gnm><snm>Kolsrud</snm><aff>Linnaeus U</aff></au>
+<au><gnm>Camille</gnm><snm>Landais</snm><aff>London School of Economics and Political Science</aff></au>
+<au><gnm>Daniel</gnm><snm>Reck</snm><aff>U of Maryland</aff></au>
+<au><gnm>Johannes</gnm><snm>Spinnewijn</snm><aff>London School of Economics and Political Science</aff></au>
+</augp>
+<pp>
+<ppf>89</ppf>
+<ppl>133</ppl>
+</pp>
+<ab>This paper analyzes consumption to evaluate the distributional effects of pension reforms. Using Swedish administrative data, we show that on average, workers who retire earlier consume less while retired and experience larger drops in consumption around retirement. Interpreted via a theoretical model, these findings imply that reforms incentivizing later retirement incur a substantial consumption smoothing cost. Turning to other features of pension policy, we find that reforms that redistribute based on early-career labor supply would have opposite-signed redistributive effects, while differentiating on wealth may help to target pension benefits toward those who are vulnerable to larger drops in consumption around retirement.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20221426</art_url>
+<doi>10.1257/aer.20221426</doi>
+<dataset>https://doi.org/10.3886/E192685V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>1</iss>
+<cd>January 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/747</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>The Ends of 27 Big Depressions</ti>
+<augp>
+<au><gnm>Martin</gnm><snm>Ellison</snm><aff>U of Oxford</aff></au>
+<au><gnm>Sang Seok</gnm><snm>Lee</snm><aff>Bilkent U</aff></au>
+<au><gnm>Kevin Hjortshøj</gnm><snm>O'Rourke</snm><aff>New York U Abu Dhabi</aff></au>
+</augp>
+<pp>
+<ppf>134</ppf>
+<ppl>68</ppl>
+</pp>
+<ab>How did countries recover from the Great Depression? In this paper, we explore the argument that leaving the gold standard helped by boosting inflationary expectations, lowering real interest rates, and stimulating interest-sensitive expenditures. We do so for a sample of 27 countries, using modern nowcasting methods and a new dataset containing more than 230,000 monthly and quarterly observations for over 1,500 variables. In those cases where the departure from gold happened on well-defined dates, inflationary expectations clearly rose in the wake of departure. Instrumental variable, difference-in-difference, and synthetic matching techniques suggest that the relationship is causal.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20221479</art_url>
+<doi>10.1257/aer.20221479</doi>
+<dataset>https://doi.org/10.3886/E191743V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>1</iss>
+<cd>January 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/747</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>The Economic Impact of Depression Treatment in India: Evidence from Community-Based Provision of Pharmacotherapy</ti>
+<augp>
+<au><gnm>Manuela</gnm><snm>Angelucci</snm><aff>U of Texas at Austin</aff></au>
+<au><gnm>Daniel</gnm><snm>Bennett</snm><aff>U of Southern California</aff></au>
+</augp>
+<pp>
+<ppf>169</ppf>
+<ppl>98</ppl>
+</pp>
+<ab>This study evaluates the impact of depression treatment on economic behavior in Karnataka, India. We cross-randomize pharmacotherapy and livelihoods assistance among 1,000 depressed adults and evaluate impacts on depression severity, socioeconomic outcomes, and several potential pathways. When combined, the interventions reduce depression severity, with benefits that persist after treatment concludes. Pharmacotherapy alone has a weaker effect that is only marginally significant and dissipates sooner. Depression treatment does not significantly increase earnings, consumption, or human capital investment in children.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20210687</art_url>
+<doi>10.1257/aer.20210687</doi>
+<dataset>https://doi.org/10.3886/E191402V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>1</iss>
+<cd>January 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/747</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Market Power and Innovation in the Intangible Economy</ti>
+<augp>
+<au><gnm>Maarten</gnm><snm>De Ridder</snm><aff>London School of Economics and Political Science</aff></au>
+</augp>
+<pp>
+<ppf>199</ppf>
+<ppl>251</ppl>
+</pp>
+<ab>This paper offers a unified explanation for the slowdown of productivity growth, the decline in business dynamism, and the rise of market power. Using a quantitative framework, I show that the rise of intangible inputs, such as software, can explain these trends. Intangibles reduce marginal costs and raise fixed costs, which gives firms with high-intangible adoption a competitive advantage, in turn deterring other firms from entering. I structurally estimate the model on French and US micro data. After initially boosting productivity, the rise of intangibles causes a decline in productivity growth, consistent with the empirical trends observed since the mid-1990s.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20201079</art_url>
+<doi>10.1257/aer.20201079</doi>
+<dataset>https://doi.org/10.3886/E192843V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>1</iss>
+<cd>January 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/747</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Propagation and Insurance in Village Networks</ti>
+<augp>
+<au><gnm>Cynthia</gnm><snm>Kinnan</snm><aff>Tufts U</aff></au>
+<au><gnm>Krislert</gnm><snm>Samphantharak</snm><aff>U of California, San Diego and Puey Ungphakorn Institute for Economic Research</aff></au>
+<au><gnm>Robert</gnm><snm>Townsend</snm><aff>MIT</aff></au>
+<au><gnm>Diego</gnm><snm>Vera-Cossio</snm><aff>Inter-American Development Bank</aff></au>
+</augp>
+<pp>
+<ppf>252</ppf>
+<ppl>84</ppl>
+</pp>
+<ab>Firms in developing countries are embedded in supply chains and labor networks. These linkages may propagate or attenuate shocks. Using panel data from Thai villages, we document three facts: as households facing idiosyncratic shocks adjust their production, these shocks propagate to other households on both the production and consumption sides; propagation is greater via labor than supply chain links; and shocks in denser networks and to more central households propagate more, while access to formal or informal insurance reduces propagation. Social benefits from expanding safety nets may be higher than private benefits.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20220892</art_url>
+<doi>10.1257/aer.20220892</doi>
+<dataset>https://doi.org/10.3886/E193220V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>1</iss>
+<cd>January 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/747</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Competing to Commit: Markets with Rational Inattention</ti>
+<augp>
+<au><gnm>Carlo M.</gnm><snm>Cusumano</snm><aff>Yale U</aff></au>
+<au><gnm>Francesco</gnm><snm>Fabbri</snm><aff>Princeton U</aff></au>
+<au><gnm>Ferdinand</gnm><snm>Pieroth</snm><aff>Yale U</aff></au>
+</augp>
+<pp>
+<ppf>285</ppf>
+<ppl>306</ppl>
+</pp>
+<ab>Two homogeneous-good firms compete for a consumer's unitary demand. The consumer is rationally inattentive and pays entropy costs to process information about firms' offers. Compared to a collusion benchmark, competition produces two effects. As in standard models, competition puts downward pressure on prices. But, additionally, an attention effect arises: the consumer engages in trade more often. This alleviates the commitment problem that firms have when facing inattentive consumers and increases trade efficiency. For high enough attention costs, the attention effect dominates the effect on prices: firms' profits are higher under competition than under collusion.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20221605</art_url>
+<doi>10.1257/aer.20221605</doi>
+</artinfo>
+</head>
+
+

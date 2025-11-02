@@ -1,0 +1,321 @@
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>5</iss>
+<cd>May 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/760</iss_url>
+</issinfo>
+<docty>Journal Article</docty>
+<artinfo>
+<ti>Front Matter</ti>
+<pp>
+<ppf>i</ppf>
+<ppl>viii</ppl>
+</pp>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.114.5.i</art_url>
+<doi>10.1257/aer.114.5.i</doi>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>5</iss>
+<cd>May 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/760</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Shocks, Frictions, and Inequality in US Business Cycles</ti>
+<augp>
+<au><gnm>Christian</gnm><snm>Bayer</snm><aff>U of Bonn and CESifo, Munich</aff></au>
+<au><gnm>Benjamin</gnm><snm>Born</snm><aff>Frankfurt School of Finance and Management and CESifo, Munich</aff></au>
+<au><gnm>Ralph</gnm><snm>Luetticke</snm><aff>U of Tuebingen</aff></au>
+</augp>
+<pp>
+<ppf>1211</ppf>
+<ppl>47</ppl>
+</pp>
+<ab>We show how a heterogeneous agent New Keynesian (HANK) model with incomplete markets and portfolio choice can be estimated in state space using a Bayesian approach. To render estimation feasible, the structure of the economy can be exploited and the dimensionality of the model automatically reduced based on the Bayesian priors. We apply this approach to analyze how much inequality matters for the business cycle and vice versa. Even when the model is estimated on aggregate data alone and with a set of shocks and frictions designed to match aggregate data, it broadly reproduces observed US inequality dynamics.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20201875</art_url>
+<doi>10.1257/aer.20201875</doi>
+<dataset>https://doi.org/10.3886/E194108V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>5</iss>
+<cd>May 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/760</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Household Labor Supply and the Value of Social Security Survivors Benefits</ti>
+<augp>
+<au><gnm>David</gnm><snm>Coyne</snm><aff>US Department of the Treasury</aff></au>
+<au><gnm>Itzik</gnm><snm>Fadlon</snm><aff>U of California, San Diego</aff></au>
+<au><gnm>Shanthi P.</gnm><snm>Ramnath</snm><aff>Federal Reserve Bank of Chicago</aff></au>
+<au><gnm>Patricia K.</gnm><snm>Tong</snm><aff>RAND Corporation, Santa Monica</aff></au>
+</augp>
+<pp>
+<ppf>1248</ppf>
+<ppl>80</ppl>
+</pp>
+<ab>We combine quasi-experimental variation in spousal death and age eligibility for survivors benefits using US tax records to study the effects on American households' labor supply and the design of social security's survivors insurance. Benefit eligibility at the exact age of 60 induces sharp reductions in the labor supply of newly widowed households, highlighting the value of survivors benefits and the liquidity they provide following the shock. Among eligible widows, the spousal death event induces no increases in labor supply, suggesting little residual need to self-insure. Using theory, we underscore the program's protective insurance role and its high valuation among survivors.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20190813</art_url>
+<doi>10.1257/aer.20190813</doi>
+<dataset>https://doi.org/10.3886/E195986V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>5</iss>
+<cd>May 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/760</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Creating Moves to Opportunity: Experimental Evidence on Barriers to Neighborhood Choice</ti>
+<augp>
+<au><gnm>Peter</gnm><snm>Bergman</snm><aff>U of Texas at Austin</aff></au>
+<au><gnm>Raj</gnm><snm>Chetty</snm><aff>Harvard U</aff></au>
+<au><gnm>Stefanie</gnm><snm>DeLuca</snm><aff>Johns Hopkins U</aff></au>
+<au><gnm>Nathaniel</gnm><snm>Hendren</snm><aff>MIT</aff></au>
+<au><gnm>Lawrence F.</gnm><snm>Katz</snm><aff>Harvard U</aff></au>
+<au><gnm>Christopher</gnm><snm>Palmer</snm><aff>MIT</aff></au>
+</augp>
+<pp>
+<ppf>1281</ppf>
+<ppl>1337</ppl>
+</pp>
+<ab>Low-income families often live in low-upward-mobility neighborhoods. We study why by using a randomized trial with housing voucher recipients that provided information, financial support, and customized search assistance to move to high-opportunity neighborhoods. The treatment increased the fraction moving to high-upward-mobility areas from 15 to 53 percent. A second trial reveals this treatment effect is driven primarily by customized search assistance. Qualitative interviews show that the intervention relaxed bandwidth constraints and addressed family-specific needs. Our findings imply many low-income families do not have strong preferences to stay in low-opportunity areas and that barriers in housing search significantly increase residential segregation by income.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20200407</art_url>
+<doi>10.1257/aer.20200407</doi>
+<dataset>https://doi.org/10.3886/E193486V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>5</iss>
+<cd>May 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/760</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>From Fog to Smog: The Value of Pollution Information</ti>
+<augp>
+<au><gnm>Panle Jia</gnm><snm>Barwick</snm><aff>U of Wisconsin-Madison</aff></au>
+<au><gnm>Shanjun</gnm><snm>Li</snm><aff>Cornell U</aff></au>
+<au><gnm>Liguo</gnm><snm>Lin</snm><aff>Shanghai U of Finance and Economics</aff></au>
+<au><gnm>Eric Yongchen</gnm><snm>Zou</snm><aff>U of Michigan</aff></au>
+</augp>
+<pp>
+<ppf>1338</ppf>
+<ppl>81</ppl>
+</pp>
+<ab>In 2013, China launched a landmark program to monitor air quality and disclose real-time data, significantly increasing the public's access to and awareness of pollution information. The program triggered cascading behavioral changes such as stronger avoidance of outdoor pollution exposure and increased spending on protective products. These behavioral responses mitigated the mortality impact of air pollution. Conservative estimates indicate that the program's health benefits outweigh the costs by an order of magnitude. The findings highlight the benefits of improving public access to pollution information in developing countries which often experience severe air pollution but lack pollution data collection and dissemination.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20200956</art_url>
+<doi>10.1257/aer.20200956</doi>
+<dataset>https://doi.org/10.3886/E193441V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>5</iss>
+<cd>May 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/760</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Urban Public Works in Spatial Equilibrium: Experimental Evidence from Ethiopia</ti>
+<augp>
+<au><gnm>Simon</gnm><snm>Franklin</snm><aff>Queen Mary U of London</aff></au>
+<au><gnm>Clément</gnm><snm>Imbert</snm><aff>U of Warwick</aff></au>
+<au><gnm>Girum</gnm><snm>Abebe</snm><aff>World Bank</aff></au>
+<au><gnm>Carolina</gnm><snm>Mejia-Mantilla</snm><aff>World Bank</aff></au>
+</augp>
+<pp>
+<ppf>1382</ppf>
+<ppl>1414</ppl>
+</pp>
+<ab>This paper evaluates a large urban public works program randomly rolled out across neighborhoods of Addis Ababa, Ethiopia. We find the program increased public employment and reduced private labor supply among beneficiaries and improved local amenities in treated locations. We then combine a spatial equilibrium model and unique commuting data to estimate the spillover effects of the program on private sector wages across neighborhoods: under full program rollout, wages increased by 18.6 percent. Using our model, we show that welfare gains to the poor are six times larger when we include the indirect effects on private wages and local amenities.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20220471</art_url>
+<doi>10.1257/aer.20220471</doi>
+<dataset>https://doi.org/10.3886/E195483V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>5</iss>
+<cd>May 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/760</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Resisting Social Pressure in the Household Using Mobile Money: Experimental Evidence on Microenterprise Investment in Uganda</ti>
+<augp>
+<au><gnm>Emma</gnm><snm>Riley</snm><aff>U of Michigan</aff></au>
+</augp>
+<pp>
+<ppf>1415</ppf>
+<ppl>47</ppl>
+</pp>
+<ab>I examine whether changing the form of disbursement of a microfinance loan enables female microfinance borrowers to overcome intra-household sharing pressure and grow their businesses. Using a field experiment with 3,000 borrowers in Uganda, I compare the disbursement of a loan as cash to disbursement onto a digital account. After 8 months, women who received their microfinance loan on the digital account had 11 percent higher (US$70) business capital and 15 percent higher (US$18) profits compared to those who received their loan as cash. Impacts were greatest for women who experienced pressure to share money with others in the household at baseline.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20220717</art_url>
+<doi>10.1257/aer.20220717</doi>
+<dataset>https://doi.org/10.3886/E194886V2</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>5</iss>
+<cd>May 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/760</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>A Framework for Economic Growth with Capital-Embodied Technical Change</ti>
+<augp>
+<au><gnm>Benjamin F.</gnm><snm>Jones</snm><aff>Northwestern U</aff></au>
+<au><gnm>Xiaojie</gnm><snm>Liu</snm><aff>Northwestern U</aff></au>
+</augp>
+<pp>
+<ppf>1448</ppf>
+<ppl>87</ppl>
+</pp>
+<ab>Technological advance is often embodied in capital inputs, like computers, airplanes, and robots. This paper builds a framework where capital inputs advance through (i) increased automation and (ii) increased productivity. The interplay of these two innovation dimensions can produce balanced growth, satisfying the Uzawa Growth Theorem even though technological progress is capital-embodied. The framework can further address structural transformation, general-purpose technologies, the limited macroeconomic impact of computing, and declining productivity growth and labor shares. Overall, this tractable framework can help resolve puzzling tensions between micro-level observations of innovation and balanced growth while providing new perspectives on numerous macroeconomic phenomena.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20221180</art_url>
+<doi>10.1257/aer.20221180</doi>
+<dataset>https://doi.org/10.3886/E195364V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>5</iss>
+<cd>May 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/760</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>On Binscatter</ti>
+<augp>
+<au><gnm>Matias D.</gnm><snm>Cattaneo</snm><aff>Princeton U</aff></au>
+<au><gnm>Richard K.</gnm><snm>Crump</snm><aff>Federal Reserve Bank of New York</aff></au>
+<au><gnm>Max H.</gnm><snm>Farrell</snm><aff>U of California, Santa Barbara</aff></au>
+<au><gnm>Yingjie</gnm><snm>Feng</snm><aff>Tsinghua U</aff></au>
+</augp>
+<pp>
+<ppf>1488</ppf>
+<ppl>1514</ppl>
+</pp>
+<ab>Binscatter is a popular method for visualizing bivariate relationships and conducting informal specification testing. We study the properties of this method formally and develop enhanced visualization and econometric binscatter tools. These include estimating conditional means with optimal binning and quantifying uncertainty. We also highlight a methodological problem related to covariate adjustment that can yield incorrect conclusions. We revisit two applications using our methodology and find substantially different results relative to those obtained using prior informal binscatter methods. General purpose software in Python, R, and Stata is provided. Our technical work is of independent interest for the nonparametric partition-based estimation literature.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20221576</art_url>
+<doi>10.1257/aer.20221576</doi>
+<dataset>https://doi.org/10.3886/E195103V1</dataset>
+</artinfo>
+</head>
+
+

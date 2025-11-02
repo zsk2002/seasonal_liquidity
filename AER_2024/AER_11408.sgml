@@ -1,0 +1,378 @@
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>8</iss>
+<cd>August 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/771</iss_url>
+</issinfo>
+<docty>Journal Article</docty>
+<artinfo>
+<ti>Front Matter</ti>
+<pp>
+<ppf>i</ppf>
+<ppl>vi</ppl>
+</pp>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.114.8.i</art_url>
+<doi>10.1257/aer.114.8.i</doi>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>8</iss>
+<cd>August 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/771</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Monotone Function Intervals: Theory and Applications</ti>
+<augp>
+<au><gnm>Kai Hao</gnm><snm>Yang</snm><aff>Yale U</aff></au>
+<au><gnm>Alexander K.</gnm><snm>Zentefis</snm><aff>Yale U</aff></au>
+</augp>
+<pp>
+<ppf>2239</ppf>
+<ppl>70</ppl>
+</pp>
+<ab>A monotone function interval is the set of monotone functions that lie pointwise between two fixed monotone functions. We characterize the set of extreme points of monotone function intervals and apply this to a number of economic settings. First, we leverage the main result to characterize the set of distributions of posterior quantiles that can be induced by a signal, with applications to political economy, Bayesian persuasion, and the psychology of judgment. Second, we combine our characterization with properties of convex optimization problems to unify and generalize seminal results in the literature on security design under adverse selection and moral hazard.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20230330</art_url>
+<doi>10.1257/aer.20230330</doi>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>8</iss>
+<cd>August 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/771</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Long-Run Trends in Long-Maturity Real Rates, 1311–2022</ti>
+<augp>
+<au><gnm>Kenneth S.</gnm><snm>Rogoff</snm><aff>Harvard U</aff></au>
+<au><gnm>Barbara</gnm><snm>Rossi</snm><aff>ICREA-Universitat Pompeu Fabra and Barcelona School of Economics</aff></au>
+<au><gnm>Paul</gnm><snm>Schmelzing</snm><aff>Boston College and Hoover Institution, Stanford U</aff></au>
+</augp>
+<pp>
+<ppf>2271</ppf>
+<ppl>2307</ppl>
+</pp>
+<ab>Taking advantage of key recent advances in long-run economic and financial data, we analyze the statistical properties of global long-maturity real interest rates over the past seven centuries. In contrast to existing consensus, we find that real interest rates are in fact trend stationary and exhibit a persistent downward trend since the Renaissance. We investigate structural breaks in real interest rates over time and find that overall the Black Death and the 1557 "Trinity default" appear as consistent inflection points. We further show that demographic and productivity factors do not represent convincing drivers of real interest rates over long spans.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20221352</art_url>
+<doi>10.1257/aer.20221352</doi>
+<dataset>https://doi.org/10.3886/E198061V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>8</iss>
+<cd>August 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/771</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Indirect Effects of Access to Finance</ti>
+<augp>
+<au><gnm>Jing</gnm><snm>Cai</snm><aff>U of Maryland</aff></au>
+<au><gnm>Adam</gnm><snm>Szeidl</snm><aff>Central European U</aff></au>
+</augp>
+<pp>
+<ppf>2308</ppf>
+<ppl>51</ppl>
+</pp>
+<ab>We created experimental variation across markets in China in the share of firms having access to a new loan product. Access to finance had a large positive direct effect on the performance of treated firms but a similar-sized negative indirect effect on that of firms with treated competitors, leading to nondetectable gains in producer surplus. Access to finance had a positive direct effect on business quality and consumer satisfaction and a negative effect on price, which were not offset by indirect effects, implying net gains in consumer surplus. We document other indirect effects and combine effects in a welfare evaluation.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20220711</art_url>
+<doi>10.1257/aer.20220711</doi>
+<dataset>https://doi.org/10.3886/E197302V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>8</iss>
+<cd>August 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/771</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Strengthening State Capacity: Civil Service Reform and Public Sector Performance during the Gilded Age</ti>
+<augp>
+<au><gnm>Abhay</gnm><snm>Aneja</snm><aff>U of California, Berkeley</aff></au>
+<au><gnm>Guo</gnm><snm>Xu</snm><aff>U of California, Berkeley</aff></au>
+</augp>
+<pp>
+<ppf>2352</ppf>
+<ppl>87</ppl>
+</pp>
+<ab>We use newly digitized records from the post office to study the effects of strengthened state capacity between 1875 and 1901. Exploiting the implementation of the Pendleton Act—a landmark statute that shielded bureaucrats from political interference—across US cities over two waves, we find that civil service reform reduced postal delivery errors and increased productivity. These improvements were most pronounced during election years when the reform dampened bureaucratic turnover. We provide suggestive evidence that reformed cities witnessed declining local partisan newspapers. Separating politics from administration, therefore, not only improved state effectiveness but also weakened the role of local politics.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20230019</art_url>
+<doi>10.1257/aer.20230019</doi>
+<dataset>https://doi.org/10.3886/E198825V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>8</iss>
+<cd>August 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/771</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Repeated Trading: Transparency and Market Structure</ti>
+<augp>
+<au><gnm>Ayça</gnm><snm>Kaya</snm><aff>U of Miami</aff></au>
+<au><gnm>Santanu</gnm><snm>Roy</snm><aff>Southern Methodist U</aff></au>
+</augp>
+<pp>
+<ppf>2388</ppf>
+<ppl>2435</ppl>
+</pp>
+<ab>We analyze the effect of transparency of past trading volumes in markets where an informed long-lived seller can repeatedly trade with short-lived uninformed buyers. Transparency allows buyers to observe previously sold quantities. In markets with intraperiod monopsony (single buyer each period), transparency reduces welfare if the ex ante expected quality is low but improves welfare if the expected quality is high. The effect is reversed in markets with intraperiod competition (multiple buyers each period). This discrepancy in the efficiency implications of transparency is explained by how buyer competition affects the seller's ability to capture rents, which, in turn, influences market screening.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20230114</art_url>
+<doi>10.1257/aer.20230114</doi>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>8</iss>
+<cd>August 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/771</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Learning by Necessity: Government Demand, Capacity Constraints, and Productivity Growth</ti>
+<augp>
+<au><gnm>Ethan</gnm><snm>Ilzetzki</snm><aff>London School of Economics and Political Science</aff></au>
+</augp>
+<pp>
+<ppf>2436</ppf>
+<ppl>71</ppl>
+</pp>
+<ab>This paper studies how firms adapt to demand shocks when facing capacity constraints. I show that increases in government purchases raise total factor productivity in quantity units at the production line level. Productivity gains are concentrated in plants facing tighter capacity constraints, a phenomenon I call "learning by necessity." Evidence is based on newly digitized archival data on US World War II aircraft production. Shifts in demand across aircraft with different strategic roles provide an instrument for aircraft demand. I show that plants adapted to surging demand by improving production methods, outsourcing, and combating absenteeism, primarily when facing tighter capacity constraints.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20230033</art_url>
+<doi>10.1257/aer.20230033</doi>
+<dataset>https://doi.org/10.24433/CO.6241693.v1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>8</iss>
+<cd>August 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/771</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>A Discrimination Report Card</ti>
+<augp>
+<au><gnm>Patrick</gnm><snm>Kline</snm><aff>U of California, Berkeley</aff></au>
+<au><gnm>Evan K.</gnm><snm>Rose</snm><aff>U of Chicago</aff></au>
+<au><gnm>Christopher R.</gnm><snm>Walters</snm><aff>U of California, Berkeley</aff></au>
+</augp>
+<pp>
+<ppf>2472</ppf>
+<ppl>2525</ppl>
+</pp>
+<ab>We develop an empirical Bayes ranking procedure that assigns ordinal grades to noisy measurements, balancing the information content of the assigned grades against the expected frequency of ranking errors. Applying the method to a massive correspondence experiment, we grade the race and gender contact gaps of 97 US employers, the identities of which we disclose for the first time. The grades are presented alongside measures of uncertainty about each firm's contact gap in an accessible report card that is easily adaptable to other settings where ranks and levels are of simultaneous interest.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20230700</art_url>
+<doi>10.1257/aer.20230700</doi>
+<dataset>https://doi.org/10.3886/E198284V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>8</iss>
+<cd>August 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/771</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Crowding in School Choice</ti>
+<augp>
+<au><gnm>William</gnm><snm>Phan</snm><aff>North Carolina State U</aff></au>
+<au><gnm>Ryan</gnm><snm>Tierney</snm><aff>U of Southern Denmark</aff></au>
+<au><gnm>Yu</gnm><snm>Zhou</snm><aff>Nagoya U</aff></au>
+</augp>
+<pp>
+<ppf>2526</ppf>
+<ppl>52</ppl>
+</pp>
+<ab>We consider the market design problem of matching students to schools in the presence of crowding effects. These effects are salient in parents' decision-making and the empirical literature; however, they cause difficulties in the design of satisfactory mechanisms and, as such, are not currently considered. We propose a new framework and an equilibrium notion that accommodates crowding, no-envy, and respect for priorities. The equilibrium has a student-optimal element that induces an incentive-compatible mechanism and is implementable via a novel algorithm. Moreover, analogs of fundamental structural results of the matching literature (the rural hospitals theorem, welfare lattice, etc.) survive.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20220626</art_url>
+<doi>10.1257/aer.20220626</doi>
+<dataset>https://doi.org/10.3886/E200861V1</dataset>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>8</iss>
+<cd>August 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/771</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Data, Competition, and Digital Platforms</ti>
+<augp>
+<au><gnm>Dirk</gnm><snm>Bergemann</snm><aff>Yale U</aff></au>
+<au><gnm>Alessandro</gnm><snm>Bonatti</snm><aff>MIT</aff></au>
+</augp>
+<pp>
+<ppf>2553</ppf>
+<ppl>95</ppl>
+</pp>
+<ab>A monopolist platform uses data to match heterogeneous consumers with multiproduct sellers. The consumers can purchase the products on the platform or search off the platform. The platform sells targeted ads to sellers that recommend their products to consumers and reveals information to consumers about their match values. The revenue-optimal mechanism is a managed advertising campaign that matches products and preferences efficiently. In equilibrium, sellers offer higher qualities at lower unit prices on than off platform. The platform exploits its information advantage to increase its bargaining power vis-à-vis the sellers. Finally, privacy-respecting data-governance rules can lead to welfare gains for consumers.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20230478</art_url>
+<doi>10.1257/aer.20230478</doi>
+</artinfo>
+</head>
+
+
+<head>
+<pubinfo>
+<pubnm>American Economic Association</pubnm>
+<publoc>Nashville, TN</publoc>
+</pubinfo>
+<jrninfo>
+<issn>0002-8282</issn>
+<jrnti>American Economic Review</jrnti>
+<jrnurl>https://www.aeaweb.org/journals/aer</jrnurl>
+</jrninfo>
+<issinfo>
+<vol>114</vol>
+<iss>8</iss>
+<cd>August 2024</cd>
+<iss_url>https://www.aeaweb.org/issues/771</iss_url>
+</issinfo>
+<docty>Articles</docty>
+<artinfo>
+<ti>Buying from a Group</ti>
+<augp>
+<au><gnm>Nima</gnm><snm>Haghpanah</snm><aff>Pennsylvania State U</aff></au>
+<au><gnm>Aditya</gnm><snm>Kuvalekar</snm><aff>U of Essex</aff></au>
+<au><gnm>Elliot</gnm><snm>Lipnowski</snm><aff>Yale U</aff></au>
+</augp>
+<pp>
+<ppf>2596</ppf>
+<ppl>2632</ppl>
+</pp>
+<ab>A buyer procures a good owned by a group of sellers whose heterogeneous cost of trade is private information. The buyer must either buy the whole good or nothing, and sellers share the transfer in proportion to their share of the good. We characterize the optimal mechanism: trade occurs if and only if the buyer's benefit of trade exceeds a weighted average of sellers' virtual costs. These weights are endogenous, with sellers who are ex ante less inclined to trade receiving higher weight. This mechanism always outperforms posted-price mechanisms. An extension characterizes the entire Pareto frontier.</ab>
+<art_url>https://www.aeaweb.org/articles?id=10.1257/aer.20230914</art_url>
+<doi>10.1257/aer.20230914</doi>
+</artinfo>
+</head>
+
+
