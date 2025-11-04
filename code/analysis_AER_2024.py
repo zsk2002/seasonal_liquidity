@@ -59,14 +59,12 @@ def get_pdf_urls(df):
     print()
     return df
 
-
-
  
 df = read_all_sgml_file('/Users/zhushangkai/Desktop/seasonal_liquidity/AER_2024')
 df = get_pdf_urls(df)
 df.to_excel("/Users/zhushangkai/Desktop/seasonal_liquidity/AER_2024/whole_list.xlsx", index=False)
 print(df)
 
-urls = df['pdf_url']
+
 
 
