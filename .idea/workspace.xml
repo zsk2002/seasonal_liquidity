@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead5f6f0-0a6a-404a-95ab-cbab36b1daea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/code/analysis_AER_2024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AER_2024/whole_list_manually_labled.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/AER_2024/whole_list_manually_labled.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AER_2024/~$whole_list_manually_labled.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/analysis_AER_2024.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/analysis_AER_2024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chatgpt_analysis.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,22 +22,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="34wU2GFsmhXDXN86JDTMl4J9omG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/zhushangkai/Desktop/seasonal_liquidity"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zhushangkai/Desktop/seasonal_liquidity&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
